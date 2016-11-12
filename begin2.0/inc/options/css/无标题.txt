@@ -1,0 +1,22 @@
+#section-img_w {
+    width: 50%;
+	float: left;
+	border: 1px solid #ff0000;
+}
+#section-img_h {    width: 50%;
+	float: left;
+	border: 1px solid #ff0000;
+}
+
+#section-img_w .explain {
+       width: 30px;	float: left;	border: 1px solid #ff0000;
+}
+#section-img_w .controls {
+    width: 70px;	float: left;
+	border: 1px solid #ddd;
+}
+
+#section-img_h .controls{
+    width: 50%;
+	border: 1px solid #ff0000;
+}
